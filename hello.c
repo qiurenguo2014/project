@@ -18,6 +18,7 @@ int main()
 {
 	printf("\r\nhello world");
 	printf("\r\nhello world");
+	printf("\r\nhello world");
 	return 1;
 }
 /*********************************END OF FILE****************************/
